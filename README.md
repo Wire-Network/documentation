@@ -6,7 +6,7 @@ These documents are meant to provide a comprehensive understanding of our networ
 
 ## License
 
-Copyright (C) 2023 Wire Network
+Copyright © 2023 Wire Network
 
 This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) License.
 
