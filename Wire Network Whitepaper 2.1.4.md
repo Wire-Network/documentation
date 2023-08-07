@@ -148,9 +148,7 @@ Suppose Bob possesses $100 of ETH on Ethereum and Alice has $100 of SOL on Solan
 
 Now, suppose Bob owes Alice $100 for dinner and has $100 of USDC in the Ethereum's WNS smart contract. If Alice possesses a UPAP-enabled wallet or a Wire username, Bob can simply send his USDC to Alice, with the transaction being settled on the Wire blockchain. But, if Alice only has a Solana wallet with a traditional Solana address, Bob can withdraw his USDC directly to Alice on Solana using his UPAP-enabled wallet, sending to her directly. This versatility highlights the protocol's  capability  to  perform  cross-chain  transactions seamlessly. 
 
-UPAP's  essence  lies  in  the  principle  of  "abstracted ownership," where assets can be held and transacted across multiple  blockchain  networks  without  the  need  for  native accounts  or  incurring  network-specific  fees.  This  not  only 
-
-enables seamless cross-chain transactions but also opens up many new opportunities for users to engage with digital assets, such as buying Ethereum NFTs on Ethereum without the need to pay for Ethereum’s immense gas fees. 
+UPAP's  essence  lies  in  the  principle  of  "abstracted ownership," where assets can be held and transacted across multiple  blockchain  networks  without  the  need  for  native accounts  or  incurring  network-specific  fees.  This  not  only enables seamless cross-chain transactions but also opens up many new opportunities for users to engage with digital assets, such as buying Ethereum NFTs on Ethereum without the need to pay for Ethereum’s immense gas fees. 
 
 **7  Crypto SSO & Password Recovery** 
 
