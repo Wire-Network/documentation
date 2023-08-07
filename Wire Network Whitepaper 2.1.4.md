@@ -54,9 +54,7 @@ Tier-2  (“T2”)  Nodes hold  an  equal  share  of 0.15%  of  the existing inv
 
 **Tier 3: Premier Citizens** 
 
-Tier-3 (“T3”) Nodes, numbering 1,000 seats at launch, stake 100,000 $WIRE that is rewarded back over 36 months. Each T3 Node holds an equal share of 0.00045% of the existing inventory. T1 and T2 Nodes are the only ones that can power 
-
-smart contracts, whereas T3 nodes can simply use their own resources given to their account. 
+Tier-3 (“T3”) Nodes, numbering 1,000 seats at launch, stake 100,000 $WIRE that is rewarded back over 36 months. Each T3 Node holds an equal share of 0.00045% of the existing inventory. T1 and T2 Nodes are the only ones that can power smart contracts, whereas T3 nodes can simply use their own resources given to their account. 
 
 **Auxiliary Tiers** 
 
