@@ -4,8 +4,6 @@ Welcome to the official GitHub repository for Wire Network's foundational docume
 
 These documents are meant to provide a comprehensive understanding of our network, its architecture, underlying technology, and strategic vision. They are intended for anyone interested in learning about our blockchain network, whether you are a community member, potential user, developer, researcher, or simply a curious mind.
 
-## Ask Chat GPT questions about the documentation: [White Paper - GPT](https://chat.openai.com/share/60f5f7b9-835d-43fe-93d4-7d3942370f57)
-
 ## License
 
 Copyright © 2023 Wire Network
