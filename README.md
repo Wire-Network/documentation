@@ -54,7 +54,7 @@ It is mandatory for all apps to utilize the UTXO (Unspent Transaction Output) mo
 *In progress...*
 
 * [Testnet Demo](https://wns.wire.foundation)
-* [Code Contributors](/tree/main/Contributions/)
+* [Code Contributors](/Contributions/)
 
 
 ---
