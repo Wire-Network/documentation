@@ -1,6 +1,6 @@
 ## Code Provider - Proof of Contribution Table
 
-**Before adding a pull request to this table please read Wire Weights.**
+**Before adding a pull request to this table please read [Wire Weights](./Wire-Weights.md).**
 
 ## Snapshot Timelines and Implied Value of a Weight
 **Snapshot 1.**  
