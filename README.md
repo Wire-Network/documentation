@@ -54,6 +54,7 @@ It is mandatory for all apps to utilize the UTXO (Unspent Transaction Output) mo
 
 - [Testnet Demo](https://wns.wire.foundation)
 - [Code Contributors](/Contributions/)
+- [Whitepaper](/Whitepaper)
 
 ---
 
@@ -65,8 +66,6 @@ Links listed below will direct you to each respective repository in the **Wire-N
 - [wire-cdt](https://github.com/Wire-Network/wire-cdt)
 - [wire-system-contracts](https://github.com/Wire-Network/wire-system-contracts)
 - [Blockscout](https://github.com/Wire-Network/Blockscout)
-- [wire-docs](https://github.com/Wire-Network/wire-docs)
-- [documentation](https://github.com/Wire-Network/documentation)
 - [guides](https://github.com/Wire-Network/guides)
 - [hyperion-docker-new](https://github.com/Wire-Network/hyperion-docker-new)
 - [hyperion-history-api](https://github.com/Wire-Network/hyperion-history-api)
