@@ -170,7 +170,7 @@ Moreover, the Wire token effectively aligns with Moore's law by encapsulating th
 Inspired by Morpheus, Wire Network introduces its own Techno Capital Machine (TCM), which is a decentralized financial system embedded within the protocol, designed to reward and incentivize various participants for their contributions to the ecosystem. At the core of the TCM is the Emissions Contract, which manages the distribution of rewards to different parties supporting the network. Figure 1 below illustrates the structure of the TCM.
 
 
-![](images/wire-tcm.png)
+![](/images/wire-tcm.png)
 
 
 
