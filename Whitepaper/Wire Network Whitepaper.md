@@ -4,7 +4,7 @@
 
 *Kyle Dolan, Ken DiCross, Joseph Rubin*
 
-
+*v3.1.2*
 
 ***Important Notice:** This paper is a living document that will be actively updated as Wire Network evolves. We welcome contributions from the open source community to expand and refine its content.*
 
@@ -30,9 +30,9 @@ In our analysis, the quintessential hurdles impeding the advancement of the bloc
 
 ## 2.1. Decentralization & Security  
 
-In public blockchains, decentralization is primarily assessed by examining the distribution of resources governing block generation, which is intrinsically linked to security and scalability. A concentration of these resources among few entities signifies centralization, compromising security. This security concern arises from the potential for collusion among these entities, enabling denial-of-service attacks and censorship against selected users or the alteration of blockchain historical records [3]. Even today, Ethereum is still plagued by significant censorship challenges, where a significant portion of blocks are created by entities that selectively exclude transactions to comply with regulations and sanctions, which undermines the intended neutrality and openness of the blockchain [4] [5]. 
+In public blockchains, decentralization is typically assessed by examining how resources that govern block generation are distributed, which inherently ties into security and scalability. A concentration of these resources in the hands of a few entities indicates centralization and compromises security. This compromise emerges from the potential for collusion among these entities, enabling denial-of-service attacks, censorship of specific users, or even alteration of the blockchain’s historical records [3].
 
-All networks seem to suffer from some degree of decentralization [6], but there seems to be general agreement that Bitcoin is still one of the most secure and decentralized networks [7], despite its other limitations. However, Li and Palanisamy argue that Larimer’s Delegated Proof-of-Stake (DPoS) [8], used in Steemit, BitShares, and EOS, offers greater levels of decentralization to Bitcoin [3]. We agree; however, DPoS is still flawed due to issues regarding low voter turnout [9], wealth concentration [10], and voter collusion [11].
+Even today, Ethereum faces significant censorship challenges, with a substantial fraction of blocks created by entities that selectively exclude transactions to comply with regulations and sanctions—undermining the intended neutrality and openness of the blockchain [4] [5]. All networks exhibit some degree of centralization [6], yet there is broad agreement that Bitcoin remains among the most secure and decentralized network [7], despite its other limitations. However, Li and Palanisamy argue that Larimer’s Delegated Proof-of-Stake (DPoS) [8], used in Steemit, BitShares, and EOS, offers greater levels of decentralization to Bitcoin [3]. We agree; however, DPoS still has some issues regarding low voter turnout [9], wealth concentration [10], and voter collusion [11]
 
 ### 2.1.1. Cross-Chain Transactions
 
