@@ -157,11 +157,11 @@ Wire's tokenomics aim to stimulate both short-term and long-term incentives, fos
 
 At the core of Wire Network's economic model is the Wire token (or $WIRE), which serves as the linchpin for decentralized computation within the ecosystem. The total supply of $WIRE is fixed at 1,000,000,000 tokens, allocated strategically to support various aspects of the network:
 
-- 157,500,000 $WIRE (15.75%) are allocated to T1 Nodes,
-- 84,000,000 $WIRE (8.4%) are allocated to T2 Nodes,
-- 100,000,000 $WIRE (10%) are allocated to T3 Nodes,
-- 144,000,000 $WIRE (14.4%) are allocated to T4 Nodes, and
-- 514,500,000 $WIRE (51.45%) are allocated to the Techno Capital Machine.
+- 157,500,000 $WIRE (15.75%) are allocated to T1 Nodes
+- 84,000,000 $WIRE (8.40%) are allocated to T2 Nodes
+- 100,000,000 $WIRE (10.00%) are allocated to T3 Nodes
+- 158,500,000 $WIRE (15.85%) are allocated to T4 Nodes
+- 500,000,000 $WIRE (50.00%) are allocated to the Techno Capital Machine (T5).
 
 Moreover, the Wire token effectively aligns with Moore's law by encapsulating the increasing affordability and demand for computational resources. As such, $WIRE symbolizes a fair-priced mechanism for decentralized compute, with its scalability inherently bound by the limits of computational advancements. 
 
