@@ -2,9 +2,9 @@
 
 
 
-*Kyle Dolan, Ken DiCross, Joseph Rubin*
+*Kyle Dolan, Ken DiCross, Joseph Rubin, Jack Rogers*
 
-*v3.1.3*
+*v3.1.4
 
 ***Important Notice:** This paper is a living document that will be actively updated as Wire Network evolves. We welcome contributions from the open source community to expand and refine its content.*
 
@@ -135,7 +135,7 @@ There may be scenarios in future where the network usage falls sharply, necessit
 
 ## 6.1. Wire Token Utility and System Resources
 
-The Wire token serves as the primary digital asset within the Wire Network ecosystem, underpinning various functionalities across the platform. The token is used to pay for transaction fees and facilitate staking for Node Owners during expansion. Although $WIRE serves as the primary token for Wire Network, $WIRE is an ERC-20 token on the Ethereum mainnet.
+The Wire token serves as the primary digital asset within the Wire Network ecosystem, underpinning various functionalities across the platform. The token is used to pay for transaction fees and facilitate staking for Node Owners during expansion. $WIRE serves as the primary token of the Wire Network and is represented on the Wire blockchain with a precision of nine decimal places.
 
 In Wire Network, significant innovations have been introduced over the traditional EOSIO blockchain protocol, particularly in the approach to token utility and system resource management. Central to these innovations is the Resource Owners' Association (ROA), a novel system that redefines how resources such as CPU, NET, and RAM are allocated and consumed within the network. Unlike the EOSIO model, where users had to stake core tokens to acquire CPU and NET resources and purchase RAM through specific actions, Wire Network delegates resource management to the ROA, simplifying the user experience.
 
